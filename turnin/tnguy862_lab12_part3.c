@@ -1,11 +1,14 @@
 /*	Author: Tann Nguyen
  *  Partner(s) Name: 
  *	Lab Section:022
- *	Assignment: Lab #12  Exercise #4
+ *	Assignment: Lab #12  Exercise #3
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
+ *
+ *	Demo Link:
+ *	https://www.youtube.com/watch?v=7SJZSlUP2wg
  */
 #include <avr/io.h>
 #ifdef _SIMULATE_
